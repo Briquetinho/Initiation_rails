@@ -47,7 +47,23 @@ Elles permettent donc de définir quel contrôleur va être utilisé en fonction
 
 <br />
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-
 Dans un framework rails, on les trouve dans config/routes.rb
-On y utilise principalement des "get" qui prennent une URL et qui envoient vers un contrôleur
+On y utilise principalement des "get" qui prennent une URL et qui envoient vers un contrôleur comme dans l'exemple ci dessous : 
+```ruby
+get '/welcome', to: "pages#welcome"
+```
+<br />
+Ici, pour une URL se terminant par welcome, on se redirigera vers le contrôleur "pages".
+
+<br />
+<br />
+
+On peut aussi utiliser "root" à la place de "get" pour parler de la page d'accueil du site :
+```ruby
+root :to =&gt; 'pages#main'
+```
+<br />
+
+## 4. Les Bases de Données
+
+
