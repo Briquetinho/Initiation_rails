@@ -32,6 +32,22 @@ Le Modèle-Vue-Controleur en français est un **motif** créé dans le but de me
 Il est composé comme son nom l'indique de 3 entités principales:
 
 <br />
+
 ![Schéma du MVC](https://image.noelshack.com/fichiers/2018/05/1/1517241703-mvc.png)
+
 <br />
 
+* Un modèle qui est chargé d'échanger avec la database pour pouvoir fournir au contrôleur les données à afficher.
+* Une vue qui contient la présentation de l'interface graphique.
+* Un contrôleur qui contient l'ensemble des actions logiques que l'utilisateur souhaite mettre en oeuvre sur son site.
+
+## 3. Les routes
+Les routes permettent de faire le lien entre la "demande" du navigateur (donc l'_URL_) et le contrôleur.
+Elles permettent donc de définir quel contrôleur va être utilisé en fonction de l'URL.
+
+<br />
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
+Dans un framework rails, on les trouve dans config/routes.rb
+On y utilise principalement des "get" qui prennent une URL et qui envoient vers un contrôleur
