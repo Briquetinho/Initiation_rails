@@ -28,3 +28,10 @@ La personne navigant sur le site n'est pas le seul paramètre qui peut influence
 En conclusion, la différence majeure entre un site statique et un site dynamique est le fait que le **premier affiche toujours le même contenue** et le **second varie en fonction de la demande**.
 
 ## 2. Le MCV (Model View Controller)
+Le Modèle-Vue-Controleur en français est un **motif** créé dans le but de mettre en place des interfaces utilisateur, donc, vous l'aurez compris, de créer un _site dynamique_ !
+Il est composé comme son nom l'indique de 3 entités principales:
+
+<br />
+![Schéma du MVC](https://image.noelshack.com/fichiers/2018/05/1/1517235673-68747470733a2f2f7777772e737570696e666f2e636f6d2f61727469636c65732f7265736f75726365732f3137353236382f3737372f312e706e67.png)
+<br />
+
