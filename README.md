@@ -21,3 +21,10 @@ En effet, les sites les plus utilisés de nos jours proposent tous un système d
 
 Effectivement, les **_sites dynamiques_** sont les sites capables d'afficher un contenu particulier en fonction de la personne navigant sur ce site. Cette navigation dynamique requiert un accès permanent à la **base de données** du site.
 La personne navigant sur le site n'est pas le seul paramètre qui peut influencer l'affichage du site ! Des paramètres comme l'heure, la date, l'adresse IP de la machine s'y connectant sont aussi le lot des sites dynamiques !
+<br />
+![schéma site dynamique](https://image.noelshack.com/fichiers/2018/05/1/1517240786-dynamique.png)
+<br />
+<br />
+En conclusion, la différence majeure entre un site statique et un site dynamique est le fait que le **premier affiche toujours le même contenue** et le **second varie en fonction de la demande**.
+
+## 2. Le MCV (Model View Controller)
