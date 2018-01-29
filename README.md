@@ -32,6 +32,6 @@ Le Modèle-Vue-Controleur en français est un **motif** créé dans le but de me
 Il est composé comme son nom l'indique de 3 entités principales:
 
 <br />
-![Schéma du MVC](https://image.noelshack.com/fichiers/2018/05/1/1517235673-68747470733a2f2f7777772e737570696e666f2e636f6d2f61727469636c65732f7265736f75726365732f3137353236382f3737372f312e706e67.png)
+![Schéma du MVC](https://image.noelshack.com/fichiers/2018/05/1/1517241703-mvc.png)
 <br />
 
