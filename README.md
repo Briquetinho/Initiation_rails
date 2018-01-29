@@ -1,4 +1,4 @@
-# Bienvenue sur ce repo consacré à l'apprentissage du framework Rails
+# Bienvenue sur ce repo consacré à la compréhension du framework Rails
 
 #### Les concepts qui vont être expliqués ici sont :
 
