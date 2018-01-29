@@ -14,7 +14,7 @@
 ## 1. La différence entre un site statique et un site dynamique
 Un **_site statique_** est un site qui ne bouge pas, comme son nom l'indique ! Plus concrètement, c'est une site qui affichera toujours la même page peu importe qui l'utilise. Ce sont des sites bien souvent **peu avancés**. 
 <br />
-![schéma site statique](https://www.noelshack.com/2018-05-1-1517240782-statique.jpg)
+![schéma site statique](https://image.noelshack.com/fichiers/2018/05/1/1517240782-statique.jpg)
 <br />
 
 En effet, les sites les plus utilisés de nos jours proposent tous un système de log in, cela les force à être **_dynamiques !_**
